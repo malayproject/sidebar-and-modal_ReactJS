@@ -1,7 +1,7 @@
 # Links
 
-[Source code repository Link](https://malayproject.github.io/sidebar-and-modal_ReactJS).\
-[App published link](https://github.com/malayproject/sidebar-and-modal_ReactJS).
+[Source code repository Link](https://github.com/malayproject/sidebar-and-modal_ReactJS).\
+[App published link](https://malayproject.github.io/sidebar-and-modal_ReactJS).
 
 # Getting Started with Create React App
 
