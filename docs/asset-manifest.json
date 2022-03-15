@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sidebar-and-modal_ReactJS/static/css/main.51886ce1.css",
+    "main.js": "/sidebar-and-modal_ReactJS/static/js/main.1a29e7cc.js",
+    "static/js/787.f0274d1b.chunk.js": "/sidebar-and-modal_ReactJS/static/js/787.f0274d1b.chunk.js",
+    "index.html": "/sidebar-and-modal_ReactJS/index.html",
+    "main.51886ce1.css.map": "/sidebar-and-modal_ReactJS/static/css/main.51886ce1.css.map",
+    "main.1a29e7cc.js.map": "/sidebar-and-modal_ReactJS/static/js/main.1a29e7cc.js.map",
+    "787.f0274d1b.chunk.js.map": "/sidebar-and-modal_ReactJS/static/js/787.f0274d1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51886ce1.css",
+    "static/js/main.1a29e7cc.js"
+  ]
+}
